@@ -18,7 +18,9 @@ BCA Second Year
 
 -Java
 
--HTML/CSS
+-HTML/CSS(Pursuing)
+
+-MYSQL(Pursuing)
 
 **Experience**
 
